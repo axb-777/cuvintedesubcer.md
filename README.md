@@ -9,26 +9,22 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-        }
+            background-color: #f4f4f4; }
         header {
             background-color: #333;
             color: #fff;
             padding: 10px 0;
-            text-align: center;
-        }
+            text-align: center;   }
         .container {
             width: 80%;
             margin: auto;
-            overflow: hidden;
-        }
+            overflow: hidden;   }
         .poem {
             background: #fff;
             margin: 20px 0;
             padding: 20px;
             border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);  }
     </style>
 </head>
 <body>
@@ -106,7 +102,6 @@ Dorinte ce se-ntrec stingher...<br>
 Drept de autor: Veronica Rusu-Bucico<br>
 </p>
 
-        </div>
-    </div>
+
 </body>
 </html>
